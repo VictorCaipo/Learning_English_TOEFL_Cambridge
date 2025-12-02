@@ -14,8 +14,5 @@ Once, the grandmother stayed at the girl's home, and when she left, she had forg
 The girl isn't sure if the necklace was a gift or if her grandmother just forgot it. But it doesn't
 matter; the girl always wears it becaus it was from her grandmother.
 */
-
-
 }
-
 int main(void){}
